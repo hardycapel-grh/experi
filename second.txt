@@ -1,1 +1,2 @@
 This is the second file in the master branch.
+Now edited in the second branch.
