@@ -1,1 +1,2 @@
 The third file to test if finder switches.
+Edited.
