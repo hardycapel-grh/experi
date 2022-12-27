@@ -1,6 +1,3 @@
 Fourth file to test merging a file not yet existing in master.
-<<<<<<< HEAD
-Edited in master.
-=======
 Edited in new branch.
->>>>>>> new-branch
+
