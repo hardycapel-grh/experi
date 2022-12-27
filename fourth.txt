@@ -1,1 +1,2 @@
 Fourth file to test merging a file not yet existing in master.
+Edited in master.
